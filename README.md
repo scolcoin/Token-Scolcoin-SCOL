@@ -3,8 +3,9 @@ Token Scol Red BSC
 
 Contract: https://bscscan.com/token/0x703477125bbee6430b2c4968c1ef66701a01359f
 
-===== Block Genesis Token 
- - Total Supply: 80.000.000 SCOL token
+ Block Genesis Token 
+==========================
+- Total Supply: 80.000.000 SCOL token
  - Initial Supply: 1 SCOL Token
  + Coin support:   1 SCOL (native blockchain)
  Details Pool Bep20
