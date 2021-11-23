@@ -1,7 +1,7 @@
 # Token-Scolcoin-SCOL
 Token Scol Red BSC
 
-< Block Genesis Token >
+===== Block Genesis Token 
  - Total Supply: 80.000.000 SCOL token
  - Initial Supply: 1 SCOL Token
  + Coin support:   1 SCOL (native blockchain)
