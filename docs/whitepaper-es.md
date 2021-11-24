@@ -95,11 +95,11 @@ Scolcoin (SCOL) cryptocurrency backup and investment toke
 ## Pool Miner
 Staking SCOL 2.0 enviando los fondos a la billetera del Pool e ingresando su hash con requisitos mínimos y la rentabilidad máxima del 10% anual. No puede canjear su apuesta durante la primera fase, 2 años. pool.scolcoin.com convierte los SCOL nativos en tokens como la única prueba de sus SCOL de participación con una proporción de 1:1. con el requisito de ingresar una inversión al fondo de liquidez del token.
 
-**Reward distribución (Staking)
+# Reward distribución (Staking)
 
 Cada 30 días distribuimos las recompensas generadas en la cadena de bloques nativa de Scolcoin entre todos los participantes en función de su posición de token de Scolcoin. Estas recompensas se distribuyen en Scol Nativo a las billeteras registradas en pool.scolcoin.com de los usuarios.
 
-**Retiro de fondos
+# Retiro de fondos
 
 Podrás canjear tu token Scolcoin por Scolcoin Nativo cuando finalice la primera fase 2 años.
 
@@ -167,12 +167,12 @@ Portal estadístico de las cadenas blockchain actualmente propiedad del proyecto
 ```Solidity
 pragma solidity ^0.8.2;
 ```
-We've deployed Scolcoin token to mainnet with solidity ^0.8.2.
+Nosotros hemos desplegado Scolcoin token to mainnet with solidity ^0.8.2.
 
 ```Solidity
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 ```
-Right away we get into the heavy usage of OpenZeppelin secure libraries. This is the base ERC-20 implementation that SCOL is based on.
+De inmediato nos adentramos en el uso intensivo de las bibliotecas seguras de OpenZeppelin. Esta es la implementación básica de ERC-20 en la que se basa SCOL.
 
 ```Solidity
 import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol";
@@ -181,10 +181,10 @@ import "@openzeppelin/contracts/access/AccessControl.sol";
 import "@openzeppelin/contracts/security/Pausable.sol";
 import "@openzeppelin/contracts/token/ERC20/extensions/draft-ERC20Permit.sol";
 ```
-We've already included scolcoin.sol, why include the interface? SCOL smart contract accepts a _token as one of the constructore parameters. We'll discuss this in the **constructor** section below.
+Ya hemos incluido scolcoin.sol, ¿por qué incluir la interfaz? El contrato inteligente de SCOL acepta un _token como uno de los parámetros de construcción. Discutiremos esto en la sección ** constructor ** a continuación.
 
 ## ERC20Burnable
-Our Token can perform the function of Burning Token, make Repurchases to be able to Burn Tokens
+Nuestro Token puede realizar la función de Burning Token, realizar Recompras para poder Quemar Tokens.
 
 ** _burn(account, amount); **
 
