@@ -46,7 +46,9 @@ We've already included scolcoin.sol, why include the interface? SCOL smart contr
 Our Token can perform the function of Burning Token, make Repurchases to be able to Burn Tokens
 ** _burn(account, amount); **
 
-Code:
+Format:
+
+```Solidity
 /**
  * @dev Extension of {ERC20} that allows token holders to destroy both their own
  * tokens and those that they have an allowance for, in a way that can be
