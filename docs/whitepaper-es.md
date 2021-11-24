@@ -40,8 +40,8 @@ https://chainz.cryptoid.info/scol/
 
 **Caracteristica Scolcoin
 
-Coin name  SColcoin
-Coin abbreviation SCOL
+Nombre  SColcoin
+Abbreviatura SCOL
 algoritmo: Scrypt
 Tipo: PoW/PoS
 Letra Direccion: S
@@ -55,17 +55,17 @@ Target spacing: 64 seconds
 Target timespan: 1 block
 Transaction confirmations: 6 blocks
 
-=== Scol 2.0 Create Token.
-Scolcoin launches a mining Pool for its community at the following address: 
+=== Creación Scol 2.0 Token.
+Scolcoin lanza un grupo de minería para su comunidad en la siguiente dirección: 
 * Wallet: SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW
 * Explorer: https://chainz.cryptoid.info/scol/address.dws?SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW.htm
-Establish itself in the international market with an investment strategy and a liquidity fund thanks to the Scolcoin Token
+Establecerse en el mercado internacional con una estrategia de inversión y un fondo de liquidez gracias al Token Scolcoin
 Pool Miner + Investment (Liquidity Fund) = Token Scol
 
 ## Token Scolcoin (2021 -2022)
-Developed as a backup token for the community Scolcoin is born on the day.
+Desarrollado como un token de respaldo para la comunidad, Scolcoin nace el día.
 
-based on the wallet SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW link explorador: https://chainz.cryptoid.info/scol/address.dws?SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW.htm
+Basado en la wallet SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW link explorador: https://chainz.cryptoid.info/scol/address.dws?SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW.htm
 
 // contracts/BEP20.sol
 Source Code: https://github.com/scolcoin/Token-Scolcoin-SCOL
@@ -94,17 +94,19 @@ Scolcoin (SCOL) cryptocurrency backup and investment toke
 */
 
 ## Pool Miner
-Staking SCOL 2.0 by sending the funds to the Pool's wallet and entering its hash with minimum requirements and the maximum profitability of 10% per year. You cannot redeem your stake during the first phase, 2 years. pool.scolcoin.com converts native SCOLs into tokens as the only proof of your stake SCOLs with a 1: 1 ratio. with the requirement of entering an investment to the liquidity fund of the token.
+Staking SCOL 2.0 enviando los fondos a la billetera del Pool e ingresando su hash con requisitos mínimos y la rentabilidad máxima del 10% anual. No puede canjear su apuesta durante la primera fase, 2 años. pool.scolcoin.com convierte los SCOL nativos en tokens como la única prueba de sus SCOL de participación con una proporción de 1:1. con el requisito de ingresar una inversión al fondo de liquidez del token.
 
-=== Reward distribution (Staking)
-Every 30 days we distribute the rewards generated on the native Scolcoin blockchain among all participants based on their Scolcoin token position. These rewards are distributed in Scol Nativo to the wallets registered in pool.scolcoin.com of the users.
+**Reward distribución (Staking)
 
-=== Withdrawal of funds
-You will be able to exchange your Scolcoin token for Scolcoin Nativo when the first phase 2 years ends
+Cada 30 días distribuimos las recompensas generadas en la cadena de bloques nativa de Scolcoin entre todos los participantes en función de su posición de token de Scolcoin. Estas recompensas se distribuyen en Scol Nativo a las billeteras registradas en pool.scolcoin.com de los usuarios.
+
+**Retiro de fondos
+
+Podrás canjear tu token Scolcoin por Scolcoin Nativo cuando finalice la primera fase 2 años.
 
 ## Investment (Liquidity Fund)
-A collective investment fund Scolcoin also called liquidity in the de-centralized exchanges, this block consists of gathering funds from different investors, natural or legal, to leverage the Token Scolcoin asset in the current DELFIs with different pairs, managing to capitalize the project through the holding of 2 years receiving direct rewards to their wallets with Scolcoin Nativo, by mining in proof of stake 10% per year. the resources will be applied directly in the form of liquidity in different pairs.
-Liquidity Providers earn trading and Staking commissions
+Un fondo de inversión colectiva Scolcoin también llamado liquidez en los intercambios descentralizados, este bloque consiste en recolectar fondos de diferentes inversionistas, naturales o legales, para apalancar el activo Token Scolcoin en los DELFIs actuales con diferentes pares, logrando capitalizar el proyecto a través del tenencia de 2 años recibiendo recompensas directas a sus billeteras con Scolcoin Nativo, mediante minería en prueba de participación 10% anual. los recursos se aplicarán directamente en forma de liquidez en diferentes pares.
+Los proveedores de liquidez ganan comisiones de negociación y participación.
 
 # Trading Liquidity:
 Providing liquidity gives you a reward in the form of trading fees when people use your liquidity pool (your added currency pair)
