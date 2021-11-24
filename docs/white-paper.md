@@ -115,23 +115,50 @@ Thanks to the Scolcoin Nativo Mining Pool, compensation will be given according 
 The liquidity fund commissioners when registering their guests who carry out the process will have a direct commission to their wallets in native scolcoin of 3% to 15% of the investment made to the fund.
 
 # Table:
-Commission 15% for amounts less than $ 1,000 USDT
-10% commission for amounts between $ 1,000 and $ 3,000 USDT
-Commission 5% for amounts between $ 3,001 and $ 10,000 USDT
-Commission 3% for amounts over $ 10,001 USDT
-Note: all commissions are paid in Scolcoin (SCOL) Nativo
+*- Commission 15% for amounts less than $ 1,000 USDT
+*- 10% commission for amounts between $ 1,000 and $ 3,000 USDT
+*- Commission 5% for amounts between $ 3,001 and $ 10,000 USDT
+*- Commission 3% for amounts over $ 10,001 USDT
+**** Note: all commissions are paid in Scolcoin (SCOL) Nativo
 
-# 1 phase
+# 1 Phase
 Implementation of the Oracle Scolcoin system.
 
-# 2 phase
+# 2 Phase
 Implementation of the conversion system (Swap) this will be done by an API designed for the Scolcoin community designed to exchange all currencies for token by performing a multiblockchain.
 
-# Phase 3
+# 3 Phase 
 PAD project integration with the Scolcoin API multiblockchain system.
 
 # Oracle Definition:
 Statistical portal of the blockchain chains currently owned by the SCOL project.
+
+## Roadmap
+
+# Q1 2021
+*- November 2021 - Create Token Scolcoin (whitepaper, ANN, Exchange)
+
+# Q2 2021
+*- December 2021 - Launch of the Mining Pool and Liquidity Fund.
+**** Start pool mining. 
+**** start liquidity pool.
+*- (1 phase: duration 2 year)
+
+# Q1 2022
+*- January to December - Sale of assets through stock brokers and / or brokers
+**** Payment of mining pool rewards (period monthly)
+
+# Q1 2023
+*- January - Oracle Platform Development (2 phase).
+
+# Q2 2023
+*- June - PAD project Platform Development (3 phase).
+
+# Q1 2024
+*- January - Withdrawal time mining pool (1 phase).
+
+# Q1 2025
+*- January - PAD Project launch (3 phase).
 
 ## Libraries & Interfaces
 
