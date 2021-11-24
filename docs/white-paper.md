@@ -38,21 +38,21 @@ https://github.com/scolcoin/scolcoin
 === Scolcoin Blockchain Explorer
 https://chainz.cryptoid.info/scol/
 
-Specifications SCOL
-Coin name  SColcoin
-Coin abbreviation SCOL
-algoritmo: Scrypt
-Tipo: PoW/PoS
-Letra Direccion: S
-RPC port  31498
-P2P port   31497
-Total coin supply: 80.000.000 coins
-PoS percentage : 10% per year
-Last PoW block:  block 10000
-Coinbase maturity : 100 blocks
-Target spacing: 64 seconds
-Target timespan: 1 block
-Transaction confirmations: 6 blocks
+# Specifications SCOL
+* Coin name  SColcoin
+* Coin abbreviation SCOL
+* algoritmo: Scrypt
+* Tipo: PoW/PoS
+* Letra Direccion: S
+* RPC port  31498
+* P2P port   31497
+* Total coin supply: 80.000.000 coins
+* PoS percentage : 10% per year
+* Last PoW block:  block 10000
+* Coinbase maturity : 100 blocks
+* Target spacing: 64 seconds
+* Target timespan: 1 block
+* Transaction confirmations: 6 blocks
 
 === Scol 2.0 Create Token.
 Scolcoin launches a mining Pool for its community at the following address: 
@@ -95,10 +95,10 @@ Scolcoin (SCOL) cryptocurrency backup and investment toke
 ## Pool Miner
 Staking SCOL 2.0 by sending the funds to the Pool's wallet and entering its hash with minimum requirements and the maximum profitability of 10% per year. You cannot redeem your stake during the first phase, 2 years. pool.scolcoin.com converts native SCOLs into tokens as the only proof of your stake SCOLs with a 1: 1 ratio. with the requirement of entering an investment to the liquidity fund of the token.
 
-=== Reward distribution (Staking)
+* Reward distribution (Staking)
 Every 30 days we distribute the rewards generated on the native Scolcoin blockchain among all participants based on their Scolcoin token position. These rewards are distributed in Scol Nativo to the wallets registered in pool.scolcoin.com of the users.
 
-=== Withdrawal of funds
+* Withdrawal of funds
 You will be able to exchange your Scolcoin token for Scolcoin Nativo when the first phase 2 years ends
 
 ## Investment (Liquidity Fund)
@@ -139,26 +139,26 @@ Statistical portal of the blockchain chains currently owned by the SCOL project.
 *- November 2021 - Create Token Scolcoin (whitepaper, ANN, Exchange)
 
 # Q2 2021
-*- December 2021 - Launch of the Mining Pool and Liquidity Fund.
-**** Start pool mining. 
-**** start liquidity pool.
-*- (1 phase: duration 2 year)
+* December 2021 - Launch of the Mining Pool and Liquidity Fund.
+* Start pool mining. 
+* start liquidity pool.
+* (1 phase: duration 2 year)
 
 # Q1 2022
-*- January to December - Sale of assets through stock brokers and / or brokers
-**** Payment of mining pool rewards (period monthly)
+* January to December - Sale of assets through stock brokers and / or brokers
+* Payment of mining pool rewards (period monthly)
 
 # Q1 2023
-*- January - Oracle Platform Development (2 phase).
+* January - Oracle Platform Development (2 phase).
 
 # Q2 2023
-*- June - PAD project Platform Development (3 phase).
+* June - PAD project Platform Development (3 phase).
 
 # Q1 2024
-*- January - Withdrawal time mining pool (1 phase).
+* January - Withdrawal time mining pool (1 phase).
 
 # Q1 2025
-*- January - PAD Project launch (3 phase).
+* January - PAD Project launch (3 phase).
 
 ## Libraries & Interfaces
 
