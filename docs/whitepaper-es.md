@@ -22,7 +22,7 @@ Este token es una implementación estándar de ERC-20 y se implementó en la red
 
 Mainnet Deployed Scolcoin (SCOL) Token can be found here: https://bscscan.com/token/0x703477125bbee6430b2c4968c1ef66701a01359f
 
-Parámetros de compilación: Solidity 0.8.10+commit.fc410830. Optimizacion 200
+Parámetros de compilación: Solidity 0.8.10+commit.fc410830. Optimización 200
 
 ## Proyecto Scolcoin
 Nuestro proyecto nació el 3 de enero de 2018 con el bloque génesis de la cadena de bloques nativa Scolcoin (SCOL) que actualmente funciona en paralelo a nuestro token. Evolucionó con el whitepaper 2.0.0.2 donde nació la apuesta de los fondos de inversión y minería, que se refleja en Token Scolcoin.
@@ -30,18 +30,18 @@ Nuestro proyecto nació el 3 de enero de 2018 con el bloque génesis de la caden
 * Link Whitepaper 2.0.0.2 Scolcoin Nativo Blockchain
 https://github.com/scolcoin/Whitepaper/blob/main/White%20Paper%20Scolcoin%20ver%202.0.0.2.pdf
 
-## Cryptocurrency SCOLCOIN (SCOL) Blockchain Native 2018 - 2021
+## Criptomoneda SCOLCOIN (SCOL) Blockchain Nativa 2018 - 2021
 El Proyecto Social Scolcoin en su etapa de creación fue presentado a la comunidad como el activo digital ecológico colombiano para alcanzar la fase Proof of Stake, logrando posicionamiento y reconocimiento en LatAm. Su bloque de génesis se realizó el 3 de enero de 2018, se conformaron los comités y presencia en comunidades.
 
-* Link Codigo Scolcoin blockchain
+* Link Código Scolcoin blockchain
 https://github.com/scolcoin/scolcoin
 
 * Scolcoin Blockchain Explorer
 https://chainz.cryptoid.info/scol/
 
-## Caracteristica Scolcoin
+## Característica Scolcoin
 * Nombre  SColcoin
-* Abbreviatura SCOL
+* Abreviatura SCOL
 * algoritmo: Scrypt
 * Tipo: PoW/PoS
 * Letra Direccion: S
