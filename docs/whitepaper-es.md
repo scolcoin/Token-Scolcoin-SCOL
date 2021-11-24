@@ -1,4 +1,4 @@
-# Whitepaper Español Token Scol (Scolcoin) Nuestro Smart Contracts
+# Whitepaper Español Token Scol (Scolcoin) Smart Contracts
 
 ## Binance Smart Chain (BSC)
 
@@ -104,66 +104,66 @@ Cada 30 días distribuimos las recompensas generadas en la cadena de bloques nat
 
 Podrás canjear tu token Scolcoin por Scolcoin Nativo cuando finalice la primera fase 2 años.
 
-## Investment (Liquidity Fund)
+## Investment (Fondo Liquidez)
 Un fondo de inversión colectiva Scolcoin también llamado liquidez en los intercambios descentralizados, este bloque consiste en recolectar fondos de diferentes inversionistas, naturales o legales, para apalancar el activo Token Scolcoin en los DELFIs actuales con diferentes pares, logrando capitalizar el proyecto a través del tenencia de 2 años recibiendo recompensas directas a sus billeteras con Scolcoin Nativo, mediante minería en prueba de participación 10% anual. los recursos se aplicarán directamente en forma de liquidez en diferentes pares.
 Los proveedores de liquidez ganan comisiones de negociación y participación.
 
-# Trading Liquidity:
-Providing liquidity gives you a reward in the form of trading fees when people use your liquidity pool (your added currency pair)
+# Trading Liquidez:
+Brindar liquidez le brinda una recompensa en forma de tarifas comerciales cuando las personas usan su fondo de liquidez (su par de divisas agregado).
 
 # Staking reward
-Thanks to the Scolcoin Nativo Mining Pool, compensation will be given according to the hold that each person has in the token (10% per year), the profits are distributed monthly.
+Gracias al Pool Minero Scolcoin Nativo, se dará una compensación de acuerdo a la tenencia que cada persona tenga en el token (10% anual), las ganancias se distribuyen mensualmente.
 
 # Referral by Investment
-The liquidity fund commissioners when registering their guests who carry out the process will have a direct commission to their wallets in native scolcoin of 3% to 15% of the investment made to the fund.
+Los comisionados del fondo de liquidez al registrar a sus invitados que realicen el proceso tendrán una comisión directa a sus billeteras en scolcoin nativo del 3% al 15% de la inversión realizada al fondo.
 
 # Table:
-*- Commission 15% for amounts less than $ 1,000 USDT
-*- 10% commission for amounts between $ 1,000 and $ 3,000 USDT
-*- Commission 5% for amounts between $ 3,001 and $ 10,000 USDT
-*- Commission 3% for amounts over $ 10,001 USDT
-**** Note: all commissions are paid in Scolcoin (SCOL) Nativo
+*- Comisión 15% por montos menores a $ 1,000 USDT
+*- 10% de comisión por montos entre $ 1,000 y $ 3,000 USDT
+*- Comisión 5% para montos entre $ 3,001 y $ 10,000 USDT
+*- Comisión 3% por montos superiores a $ 10,001 USDT
+**** Nota: todas las comisiones se pagan en Scolcoin (SCOL) Nativo
 
-# 1 Phase
-Implementation of the Oracle Scolcoin system.
+# 1 Fase:
+Implementación del sistema Oracle Scolcoin.
 
-# 2 Phase
-Implementation of the conversion system (Swap) this will be done by an API designed for the Scolcoin community designed to exchange all currencies for token by performing a multiblockchain.
+# 2 Fase:
+La implementación del sistema de conversión (Swap) se realizará mediante una API diseñada para la comunidad Scolcoin diseñada para intercambiar todas las monedas por token mediante la realización de una multiblockchain.
 
-# 3 Phase 
-PAD project integration with the Scolcoin API multiblockchain system.
+# 3 Fase:
+Integración del proyecto PAD con el sistema multiblockchain API de Scolcoin.
 
-# Oracle Definition:
-Statistical portal of the blockchain chains currently owned by the SCOL project.
+# Definicion Oraculo Blockchain:
+Portal estadístico de las cadenas blockchain actualmente propiedad del proyecto SCOL.
 
 ## Roadmap
 
 # Q1 2021
-*- November 2021 - Create Token Scolcoin (whitepaper, ANN, Exchange)
+*- Noviembre de 2021: creación de Token Scolcoin (documento técnico, ANN, Exchange)
 
 # Q2 2021
-*- December 2021 - Launch of the Mining Pool and Liquidity Fund.
-**** Start pool mining. 
-**** start liquidity pool.
-*- (1 phase: duration 2 year)
+*- Diciembre de 2021 - Lanzamiento del Fondo Pool Minero y Fondo de Liquidez.
+**** Inicio pool Minado. 
+**** Inicio pool Loquidez.
+*- (1 phase: Duración 2 Años)
 
 # Q1 2022
-*- January to December - Sale of assets through stock brokers and / or brokers
-**** Payment of mining pool rewards (period monthly)
+*- Enero a diciembre - Venta de activos a través de corredores de bolsa y / o corredores.
+**** Pago de recompensas del pool de minería (período mensual)
 
 # Q1 2023
-*- January - Oracle Platform Development (2 phase).
+*- Enero - Desarrollo de la plataforma Oracle (2 fases).
 
 # Q2 2023
-*- June - PAD project Platform Development (3 phase).
+*- Junio - Desarrollo de la plataforma del proyecto PAD (3 fases).
 
 # Q1 2024
-*- January - Withdrawal time mining pool (1 phase).
+*- Enero - Pool de minería de tiempo de retirada (1 fase).
 
 # Q1 2025
-*- January - PAD Project launch (3 phase).
+*- Enero - Lanzamiento del proyecto PAD (3 fases).
 
-## Libraries & Interfaces
+## Bibliotecas e interfaces
 
 ```Solidity
 pragma solidity ^0.8.2;
@@ -232,7 +232,7 @@ abstract contract ERC20Burnable is Context, ERC20 {
 ```
 
 ## ERC20Snapshot
-With the Snapshop function it allows us to get support from the token at any time to have it for consultations for defined seasons for a consecutive one, or to take balances from all the holders
+Con la función Snapshop nos permite obtener soporte del token en cualquier momento para tenerlo para consultas por temporadas definidas por una consecutiva, o tomar saldos de todos los titulares.
 
 ** _snapshot(); **
 
@@ -397,7 +397,7 @@ abstract contract ERC20Snapshot is ERC20 {
 ```
 
 ## AccessControl
-Access control—that is, "who is allowed to do this thing"—is incredibly important in the world of smart contracts. The access control of your contract may govern who can mint tokens, freeze transfers, and many other things. It is therefore critical to understand how you implement it, lest someone else steals your whole system.
+El control de acceso, es decir, "a quién se le permite hacer esto", es increíblemente importante en el mundo de los contratos inteligentes. El control de acceso de su contrato puede regir quién puede acuñar tokens, congelar transferencias y muchas otras cosas. Por lo tanto, es fundamental comprender cómo lo implementa, no sea que alguien más robe todo su sistema..
 
 Code:
 
@@ -472,7 +472,7 @@ library Strings {
 ```
 
 ## Pausable
-the ability to for all system operations with the system administrator, this allows to prevent losses.
+la capacidad de realizar todas las operaciones del sistema con el administrador del sistema, esto permite evitar pérdidas.
 
 Code:
 
