@@ -117,10 +117,10 @@ Gracias al Pool Minero Scolcoin Nativo, se dará una compensación de acuerdo a 
 Los comisionados del fondo de liquidez al registrar a sus invitados que realicen el proceso tendrán una comisión directa a sus billeteras en scolcoin nativo del 3% al 15% de la inversión realizada al fondo.
 
 # Table:
-*- Comisión 15% por montos menores a $ 1,000 USDT
-*- 10% de comisión por montos entre $ 1,000 y $ 3,000 USDT
-*- Comisión 5% para montos entre $ 3,001 y $ 10,000 USDT
-*- Comisión 3% por montos superiores a $ 10,001 USDT
+* Comisión 15% por montos menores a $ 1,000 USDT
+* 10% de comisión por montos entre $ 1,000 y $ 3,000 USDT
+* Comisión 5% para montos entre $ 3,001 y $ 10,000 USDT
+* Comisión 3% por montos superiores a $ 10,001 USDT
 **** Nota: todas las comisiones se pagan en Scolcoin (SCOL) Nativo
 
 # 1 Fase:
@@ -142,13 +142,13 @@ Portal estadístico de las cadenas blockchain actualmente propiedad del proyecto
 
 # Q2 2021
 *- Diciembre de 2021 - Lanzamiento del Fondo Pool Minero y Fondo de Liquidez.
-**** Inicio pool Minado. 
-**** Inicio pool Loquidez.
+* Inicio pool Minado. 
+* Inicio pool Loquidez.
 *- (1 phase: Duración 2 Años)
 
 # Q1 2022
 *- Enero a diciembre - Venta de activos a través de corredores de bolsa y / o corredores.
-**** Pago de recompensas del pool de minería (período mensual)
+* Pago de recompensas del pool de minería (período mensual)
 
 # Q1 2023
 *- Enero - Desarrollo de la plataforma Oracle (2 fases).
