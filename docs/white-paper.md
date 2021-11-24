@@ -33,9 +33,9 @@ https://github.com/scolcoin/Whitepaper/blob/main/White%20Paper%20Scolcoin%20ver%
 ## Cryptocurrency SCOLCOIN (SCOL) Blockchain Native 2018 - 2021
 The Scolcoin Social Project in its creation stage was presented to the community as the ecological Colombian digital asset for reaching the Proof of Stake phase, achieving positioning and recognition in LatAm. Its genesis block was made on January 3, 2018, the committees and presence in communities were formed
 
-=== Link Code native Scolcoin blockchain
+* Link Code native Scolcoin blockchain
 https://github.com/scolcoin/scolcoin
-=== Scolcoin Blockchain Explorer
+* Scolcoin Blockchain Explorer
 https://chainz.cryptoid.info/scol/
 
 # Specifications SCOL
@@ -115,11 +115,11 @@ Thanks to the Scolcoin Nativo Mining Pool, compensation will be given according 
 The liquidity fund commissioners when registering their guests who carry out the process will have a direct commission to their wallets in native scolcoin of 3% to 15% of the investment made to the fund.
 
 # Table:
-*- Commission 15% for amounts less than $ 1,000 USDT
-*- 10% commission for amounts between $ 1,000 and $ 3,000 USDT
-*- Commission 5% for amounts between $ 3,001 and $ 10,000 USDT
-*- Commission 3% for amounts over $ 10,001 USDT
-**** Note: all commissions are paid in Scolcoin (SCOL) Nativo
+* Commission 15% for amounts less than $ 1,000 USDT
+* 10% commission for amounts between $ 1,000 and $ 3,000 USDT
+* Commission 5% for amounts between $ 3,001 and $ 10,000 USDT
+* Commission 3% for amounts over $ 10,001 USDT
+* Note: all commissions are paid in Scolcoin (SCOL) Nativo
 
 # 1 Phase
 Implementation of the Oracle Scolcoin system.
