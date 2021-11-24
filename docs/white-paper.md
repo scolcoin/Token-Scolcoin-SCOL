@@ -54,7 +54,7 @@ https://chainz.cryptoid.info/scol/
 * Target timespan: 1 block
 * Transaction confirmations: 6 blocks
 
-=== Scol 2.0 Create Token.
+## Scol 2.0 Create Token.
 Scolcoin launches a mining Pool for its community at the following address: 
 * Wallet: SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW
 * Explorer: https://chainz.cryptoid.info/scol/address.dws?SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW.htm
