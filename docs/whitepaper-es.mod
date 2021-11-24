@@ -1,1 +1,0 @@
-Coin name  SColcoin
