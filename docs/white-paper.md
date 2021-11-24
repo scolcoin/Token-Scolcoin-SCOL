@@ -27,7 +27,7 @@ Compilation Parameters: Solidity 0.8.10+commit.fc410830. Optimization 200
 ## Scolcoin project
 Our project was born on January 3, 2018 with the genesis block of the native Scolcoin blockchain (SCOL) that currently works parallel to our token. It evolved with the 2.0.0.2 whitepaper where the mining and investment funds bet was born, which is reflected in Token Scolcoin
 
-=== Link Whitepaper 2.0.0.2 native Scolcoin blockchain
+* Link Whitepaper 2.0.0.2 native Scolcoin blockchain
 https://github.com/scolcoin/Whitepaper/blob/main/White%20Paper%20Scolcoin%20ver%202.0.0.2.pdf
 
 ## Cryptocurrency SCOLCOIN (SCOL) Blockchain Native 2018 - 2021
