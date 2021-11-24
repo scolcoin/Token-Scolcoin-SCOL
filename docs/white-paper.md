@@ -92,6 +92,8 @@ abstract contract ERC20Burnable is Context, ERC20 {
 ## ERC20Snapshot
 With the Snapshop function it allows us to get support from the token at any time to have it for consultations for defined seasons for a consecutive one, or to take balances from all the holders
 
+** _snapshot(); **
+
 Code:
 
 ```Solidity
@@ -250,4 +252,11 @@ abstract contract ERC20Snapshot is ERC20 {
     }
 }
 // File: contracts/scolcoin.sol
+```
+
+SCOL token with OpenZeppelin secure libraries. This is the base ERC-20 implementation that SCOL is based on.
+
+```Solidity
+import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Burnable.sol";
+import "@openzeppelin/contracts/token/ERC20/extensions/ERC20Snapshot.sol";
 ```
