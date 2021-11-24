@@ -24,6 +24,99 @@ Mainnet Deployed Scolcoin (SCOL) Token can be found here: https://bscscan.com/to
 
 Compilation Parameters: Solidity 0.8.10+commit.fc410830. Optimization 200
 
+## Scolcoin project
+Our project was born on January 3, 2018 with the genesis block of the native Scolcoin blockchain (SCOL) that currently works parallel to our token. It evolved with the 2.0.0.2 whitepaper where the mining and investment funds bet was born, which is reflected in Token Scolcoin
+
+=== Link Whitepaper 2.0.0.2 native Scolcoin blockchain
+https://github.com/scolcoin/Whitepaper/blob/main/White%20Paper%20Scolcoin%20ver%202.0.0.2.pdf
+
+## Cryptocurrency SCOLCOIN (SCOL) Blockchain Native 2018 - 2021
+The Scolcoin Social Project in its creation stage was presented to the community as the ecological Colombian digital asset for reaching the Proof of Stake phase, achieving positioning and recognition in LatAm. Its genesis block was made on January 3, 2018, the committees and presence in communities were formed
+
+=== Link Code native Scolcoin blockchain
+https://github.com/scolcoin/scolcoin
+=== Scolcoin Blockchain Explorer
+https://chainz.cryptoid.info/scol/
+
+Specifications SCOL
+Coin name  SColcoin
+Coin abbreviation SCOL
+algoritmo: Scrypt
+Tipo: PoW/PoS
+Letra Direccion: S
+RPC port  31498
+P2P port   31497
+Total coin supply: 80.000.000 coins
+PoS percentage : 10% per year
+Last PoW block:  block 10000
+Coinbase maturity : 100 blocks
+Target spacing: 64 seconds
+Target timespan: 1 block
+Transaction confirmations: 6 blocks
+
+== Scol 2.0 Create Token.
+Scolcoin launches a mining Pool for its community at the following address: 
+* Wallet: SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW
+* Explorer: https://chainz.cryptoid.info/scol/address.dws?SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW.htm
+Establish itself in the international market with an investment strategy and a liquidity fund thanks to the Scolcoin Token
+Pool Miner + Investment (Liquidity Fund) = Token Scol
+
+## Token Scolcoin (2021 -2022)
+Developed as a backup token for the community Scolcoin is born on the day.
+
+based on the wallet SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW link explorador: https://chainz.cryptoid.info/scol/address.dws?SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW.htm
+
+// contracts/BEP20.sol
+Source Code: https://github.com/scolcoin/Token-Scolcoin-SCOL
+Link Contract: https://bscscan.com/address/0x703477125bbee6430b2c4968c1ef66701a01359f#code
+
+/// @custom:security-contact info@scolcoin.com
+/***********************************************************
+Scolcoin (SCOL) cryptocurrency backup and investment toke
+************************************************************/  
+// Copyright (c) 2018-2021 Scolcoin (SCOL) Native Blockchain
+// Copyright (c) 2021-2022 Scolcoin (SCOL) token BEP20
+
+/*--------------------------------------------------------------- @dev
+ * Exclusive premier investment pool for the community SCOLCOIN 2.0 Token
+ * maximum profitability and liquidity. converts SCOL native <> SCOL Token.
+*/
+
+/* < Block Genesis Token >
+ - Total Supply: 80.000.000 SCOL token
+ - Initial Supply: 1 SCOL Token
+ + Coin support:   1 SCOL (native blockchain)
+ Details Pool Bep20
+ Wallet: SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW
+ Explorer: https://chainz.cryptoid.info/scol/address.dws?SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW.htm
+ Hash Genesis Scol Native 93516d2b91f309ec151a26eab14a3662f408a58786f12a61fdb67fad305c275e
+*/
+
+## Pool Miner
+Staking SCOL 2.0 by sending the funds to the Pool's wallet and entering its hash with minimum requirements and the maximum profitability of 10% per year. You cannot redeem your stake during the first phase, 2 years. pool.scolcoin.com converts native SCOLs into tokens as the only proof of your stake SCOLs with a 1: 1 ratio. with the requirement of entering an investment to the liquidity fund of the token.
+
+=== Reward distribution (Staking)
+Every 30 days we distribute the rewards generated on the native Scolcoin blockchain among all participants based on their Scolcoin token position. These rewards are distributed in Scol Nativo to the wallets registered in pool.scolcoin.com of the users.
+
+=== Withdrawal of funds
+
+
+## Investment (Liquidity Fund)
+You will be able to exchange your Scolcoin token for Scolcoin Nativo when the first phase 2 years ends
+
+1 phase
+Implementation of the Oracle Scolcoin system
+
+2 phase
+Implementation of the conversion system (Swap) this will be done by an API designed for the Scolcoin community designed to exchange all currencies for token by performing a multiblockchain.
+
+Phase 3
+PAD project integration with the Scolcoin API multiblockchain system.
+
+Oracle Definition:
+Statistical portal
+of the blockchain chains currently owned by the SCOL project.
+
 ## Libraries & Interfaces
 
 ```Solidity
