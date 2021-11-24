@@ -25,17 +25,18 @@ Mainnet Deployed Scolcoin (SCOL) Token can be found here: https://bscscan.com/to
 Parámetros de compilación: Solidity 0.8.10+commit.fc410830. Optimizacion 200
 
 ## Proyecto Scolcoin
-Nuestro proyecto nació el 3 de enero de 2018 con el bloque génesis de la cadena de bloques nativa Scolcoin (SCOL) que actualmente funciona en paralelo a nuestro token. Evolucionó con el whitepaper 2.0.0.2 donde nació la apuesta de los fondos de inversión y minería, que se refleja en Token Scolcoin
-=== Link Whitepaper 2.0.0.2 Scolcoin Nativo Blockchain
+Nuestro proyecto nació el 3 de enero de 2018 con el bloque génesis de la cadena de bloques nativa Scolcoin (SCOL) que actualmente funciona en paralelo a nuestro token. Evolucionó con el whitepaper 2.0.0.2 donde nació la apuesta de los fondos de inversión y minería, que se refleja en Token Scolcoin.
+
+* Link Whitepaper 2.0.0.2 Scolcoin Nativo Blockchain
 https://github.com/scolcoin/Whitepaper/blob/main/White%20Paper%20Scolcoin%20ver%202.0.0.2.pdf
 
 ## Cryptocurrency SCOLCOIN (SCOL) Blockchain Native 2018 - 2021
 El Proyecto Social Scolcoin en su etapa de creación fue presentado a la comunidad como el activo digital ecológico colombiano para alcanzar la fase Proof of Stake, logrando posicionamiento y reconocimiento en LatAm. Su bloque de génesis se realizó el 3 de enero de 2018, se conformaron los comités y presencia en comunidades.
 
-=== Link Codigo Scolcoin blockchain
+* Link Codigo Scolcoin blockchain
 https://github.com/scolcoin/scolcoin
 
-=== Scolcoin Blockchain Explorer
+* Scolcoin Blockchain Explorer
 https://chainz.cryptoid.info/scol/
 
 ## Caracteristica Scolcoin
@@ -147,20 +148,20 @@ Portal estadístico de las cadenas blockchain actualmente propiedad del proyecto
 *- (1 phase: Duración 2 Años)
 
 # Q1 2022
-*- Enero a diciembre - Venta de activos a través de corredores de bolsa y / o corredores.
+* Enero a diciembre - Venta de activos a través de corredores de bolsa y / o corredores.
 * Pago de recompensas del pool de minería (período mensual)
 
 # Q1 2023
-*- Enero - Desarrollo de la plataforma Oracle (2 fases).
+* Enero - Desarrollo de la plataforma Oracle (2 fases).
 
 # Q2 2023
-*- Junio - Desarrollo de la plataforma del proyecto PAD (3 fases).
+* Junio - Desarrollo de la plataforma del proyecto PAD (3 fases).
 
 # Q1 2024
-*- Enero - Pool de minería de tiempo de retirada (1 fase).
+* Enero - Pool de minería de tiempo de retirada (1 fase).
 
 # Q1 2025
-*- Enero - Lanzamiento del proyecto PAD (3 fases).
+* Enero - Lanzamiento del proyecto PAD (3 fases).
 
 ## Bibliotecas e interfaces
 
