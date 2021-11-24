@@ -2,5 +2,5 @@
 
 ## Binance Smart Chain (BSC)
 
-Our smart Contracts are BEP-20, ERC-20 compatible. For Techincal Details on BEP-20 Standard: https://academy.binance.com/en/glossary/bep-20
+Our smart Contracts are BEP-20. For Techincal Details on BEP-20 Standard: https://academy.binance.com/en/glossary/bep-20
 
