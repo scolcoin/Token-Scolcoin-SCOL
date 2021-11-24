@@ -54,7 +54,7 @@ Target spacing: 64 seconds
 Target timespan: 1 block
 Transaction confirmations: 6 blocks
 
-== Scol 2.0 Create Token.
+=== Scol 2.0 Create Token.
 Scolcoin launches a mining Pool for its community at the following address: 
 * Wallet: SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW
 * Explorer: https://chainz.cryptoid.info/scol/address.dws?SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW.htm
@@ -99,23 +99,39 @@ Staking SCOL 2.0 by sending the funds to the Pool's wallet and entering its hash
 Every 30 days we distribute the rewards generated on the native Scolcoin blockchain among all participants based on their Scolcoin token position. These rewards are distributed in Scol Nativo to the wallets registered in pool.scolcoin.com of the users.
 
 === Withdrawal of funds
-
-
-## Investment (Liquidity Fund)
 You will be able to exchange your Scolcoin token for Scolcoin Nativo when the first phase 2 years ends
 
-1 phase
-Implementation of the Oracle Scolcoin system
+## Investment (Liquidity Fund)
+A collective investment fund Scolcoin also called liquidity in the de-centralized exchanges, this block consists of gathering funds from different investors, natural or legal, to leverage the Token Scolcoin asset in the current DELFIs with different pairs, managing to capitalize the project through the holding of 2 years receiving direct rewards to their wallets with Scolcoin Nativo, by mining in proof of stake 10% per year. the resources will be applied directly in the form of liquidity in different pairs.
+Liquidity Providers earn trading and Staking commissions
 
-2 phase
+# Trading Liquidity:
+Providing liquidity gives you a reward in the form of trading fees when people use your liquidity pool (your added currency pair)
+
+# Staking reward
+Thanks to the Scolcoin Nativo Mining Pool, compensation will be given according to the hold that each person has in the token (10% per year), the profits are distributed monthly.
+
+# Referral by Investment
+The liquidity fund commissioners when registering their guests who carry out the process will have a direct commission to their wallets in native scolcoin of 3% to 15% of the investment made to the fund.
+
+# Table:
+Commission 15% for amounts less than $ 1,000 USDT
+10% commission for amounts between $ 1,000 and $ 3,000 USDT
+Commission 5% for amounts between $ 3,001 and $ 10,000 USDT
+Commission 3% for amounts over $ 10,001 USDT
+Note: all commissions are paid in Scolcoin (SCOL) Nativo
+
+# 1 phase
+Implementation of the Oracle Scolcoin system.
+
+# 2 phase
 Implementation of the conversion system (Swap) this will be done by an API designed for the Scolcoin community designed to exchange all currencies for token by performing a multiblockchain.
 
-Phase 3
+# Phase 3
 PAD project integration with the Scolcoin API multiblockchain system.
 
-Oracle Definition:
-Statistical portal
-of the blockchain chains currently owned by the SCOL project.
+# Oracle Definition:
+Statistical portal of the blockchain chains currently owned by the SCOL project.
 
 ## Libraries & Interfaces
 
