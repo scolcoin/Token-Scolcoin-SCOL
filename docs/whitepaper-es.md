@@ -133,7 +133,7 @@ La implementación del sistema de conversión (Swap) se realizará mediante una 
 # 3 Fase:
 Integración del proyecto PAD con el sistema multiblockchain API de Scolcoin.
 
-# Definicion Oraculo Blockchain:
+# Definición Oraculo Blockchain:
 Portal estadístico de las cadenas blockchain actualmente propiedad del proyecto SCOL.
 
 ## Roadmap
@@ -145,7 +145,7 @@ Portal estadístico de las cadenas blockchain actualmente propiedad del proyecto
 * Diciembre de 2021 - Lanzamiento del Fondo Pool Minero y Fondo de Liquidez.
 * Inicio pool Minado. 
 * Inicio pool Loquidez.
-*- (1 phase: Duración 2 Años)
+* (1 phase: Duración 2 Años)
 
 # Q1 2022
 * Enero a diciembre - Venta de activos a través de corredores de bolsa y / o corredores.
