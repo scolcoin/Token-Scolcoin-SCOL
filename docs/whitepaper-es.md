@@ -40,22 +40,22 @@ https://chainz.cryptoid.info/scol/
 
 **Caracteristica Scolcoin
 
-Nombre  SColcoin
-Abbreviatura SCOL
-algoritmo: Scrypt
-Tipo: PoW/PoS
-Letra Direccion: S
-RPC port  31498
-P2P port   31497
-Total coin supply: 80.000.000 coins
-PoS percentage : 10% per year
-Last PoW block:  block 10000
-Coinbase maturity : 100 blocks
-Target spacing: 64 seconds
-Target timespan: 1 block
-Transaction confirmations: 6 blocks
+*- Nombre  SColcoin
+*- Abbreviatura SCOL
+*- algoritmo: Scrypt
+*- Tipo: PoW/PoS
+*- Letra Direccion: S
+*- RPC port  31498
+*- P2P port   31497
+*- Total coin supply: 80.000.000 coins
+*- PoS percentage : 10% per year
+*- Last PoW block:  block 10000
+*- Coinbase maturity : 100 blocks
+*- Target spacing: 64 seconds
+*- Target timespan: 1 block
+*- Transaction confirmations: 6 blocks
 
-=== Creación Scol 2.0 Token.
+# Creación Scol 2.0 Token.
 Scolcoin lanza un grupo de minería para su comunidad en la siguiente dirección: 
 * Wallet: SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW
 * Explorer: https://chainz.cryptoid.info/scol/address.dws?SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW.htm
