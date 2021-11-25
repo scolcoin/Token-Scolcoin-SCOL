@@ -128,7 +128,7 @@ Los comisionados del fondo de liquidez al registrar a sus invitados que realicen
 **** Nota: todas las comisiones se pagan en Scolcoin (SCOL) Nativo
 
 # 1 Fase:
-Implementación del sistema Oracle Scolcoin.
+Implementación del sistema Oraculo Scolcoin (blockchain).
 
 # 2 Fase:
 La implementación del sistema de conversión (Swap) se realizará mediante una API diseñada para la comunidad Scolcoin diseñada para intercambiar todas las monedas por token mediante la realización de una multiblockchain.
