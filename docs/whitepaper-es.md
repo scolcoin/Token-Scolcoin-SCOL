@@ -108,6 +108,9 @@ Podrás canjear tu token Scolcoin por Scolcoin Nativo cuando finalice la primera
 Un fondo de inversión colectiva Scolcoin también llamado liquidez en los intercambios descentralizados, este bloque consiste en recolectar fondos de diferentes inversionistas, naturales o legales, para apalancar el activo Token Scolcoin en los DELFIs actuales con diferentes pares, logrando capitalizar el proyecto a través de la tenencia de 2 años recibiendo recompensas directas a sus billeteras con Scolcoin Nativo, mediante minería en prueba de participación 10% anual. los recursos se aplicarán directamente en forma de liquidez en diferentes pares.
 Los proveedores de liquidez ganan comisiones de negociación y participación.
 
+## Los Proveedores de Liquidez ganan comisiones de trading
+Proporcionar liquidez le da una recompensa en forma de tarifas de trading cuando las personas utilizan su fondo de liquidez (su par de monedas agregado). Cada vez que alguien opera en PancakeSwap, el operador paga una tarifa del 0.25%, de la cual el 0.17% se agrega al Fondo de Liquidez del par de swaps en el que operaron.
+
 # Trading Liquidez:
 Brindar liquidez le brinda una recompensa en forma de tarifas comerciales cuando las personas usan su fondo de liquidez (su par de divisas agregado).
 
