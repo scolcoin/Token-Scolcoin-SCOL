@@ -96,7 +96,7 @@ Scolcoin (SCOL) cryptocurrency backup and investment toke
 ## Pool Miner
 Staking SCOL 2.0 enviando los fondos a la billetera del Pool e ingresando su hash con requisitos mínimos y la rentabilidad máxima del 10% anual. No puede canjear su apuesta durante la primera fase, 2 años. pool.scolcoin.com convierte los SCOL nativos en tokens como la única prueba de sus SCOL de participación con una proporción de 1:1. con el requisito de ingresar una inversión al fondo de liquidez del token.
 
-# Reward distribución (Staking)
+# Distribución de recompensas (Staking)
 
 Cada 30 días distribuimos las recompensas generadas en la cadena de bloques nativa de Scolcoin entre todos los participantes en función de su posición de token de Scolcoin. Estas recompensas se distribuyen en Scol Nativo a las billeteras registradas en pool.scolcoin.com de los usuarios.
 
@@ -111,10 +111,10 @@ Los proveedores de liquidez ganan comisiones de negociación y participación.
 # Trading Liquidez:
 Brindar liquidez le brinda una recompensa en forma de tarifas comerciales cuando las personas usan su fondo de liquidez (su par de divisas agregado).
 
-# Staking reward
+# Recompensa por Staking
 Gracias al Pool Minero Scolcoin Nativo, se dará una compensación de acuerdo a la tenencia que cada persona tenga en el token (10% anual), las ganancias se distribuyen mensualmente.
 
-# Referral by Investment
+# Referido por Inversion
 Los comisionados del fondo de liquidez al registrar a sus invitados que realicen el proceso tendrán una comisión directa a sus billeteras en scolcoin nativo del 3% al 15% de la inversión realizada al fondo.
 
 # Table:
