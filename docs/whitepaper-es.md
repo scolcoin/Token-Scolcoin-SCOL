@@ -501,3 +501,8 @@ abstract contract Context {
 
 // File: @openzeppelin/contracts/security/Pausable.sol
 ```
+## Exchange
+* Par USDT / SCOL
+https://pancakeswap.finance/info/pool/0xa12e7b2b2c1c5e8826ce00a59ad5aa4b1274b3b8
+* Par SCOL / WBNB
+https://pancakeswap.finance/info/pool/0x0af9a331cdd540ead58f03d5d7597ffb174bfa60
