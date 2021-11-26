@@ -134,7 +134,7 @@ Implementación del sistema Oraculo Scolcoin (blockchain).
 La implementación del sistema de conversión (Swap) se realizará mediante una API diseñada para la comunidad Scolcoin diseñada para intercambiar todas las monedas por token mediante la realización de una multiblockchain.
 
 # 3 Fase:
-Integración del proyecto PAD con el sistema multiblockchain API de Scolcoin.
+Integración del proyecto PAD con el sistema multiblockchain API de Scolcoin. El proyecto PAD contiene un motor basado en inteligencia artificial para generar contratos inteligentes sobre una maquina virtual Scolcoin, con backup en redes publicas como soporte.
 
 # Definición Oraculo Blockchain:
 Portal estadístico de las cadenas blockchain actualmente propiedad del proyecto SCOL.
