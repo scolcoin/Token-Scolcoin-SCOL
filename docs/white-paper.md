@@ -74,8 +74,8 @@ Link Contract: https://bscscan.com/address/0x703477125bbee6430b2c4968c1ef66701a0
 /***********************************************************
 Scolcoin (SCOL) cryptocurrency backup and investment toke
 ************************************************************/  
-// Copyright (c) 2018-2021 Scolcoin (SCOL) Native Blockchain
-// Copyright (c) 2021-2022 Scolcoin (SCOL) token BEP20
+* // Copyright (c) 2018-2021 Scolcoin (SCOL) Native Blockchain
+* // Copyright (c) 2021-2022 Scolcoin (SCOL) token BEP20
 
 /*--------------------------------------------------------------- @dev
  * Exclusive premier investment pool for the community SCOLCOIN 2.0 Token
@@ -121,6 +121,8 @@ The liquidity fund commissioners when registering their guests who carry out the
 * Commission 3% for amounts over $ 10,001 USDT
 * Note: all commissions are paid in Scolcoin (SCOL) Nativo
 
+## Developed
+
 # 1 Phase
 Implementation of the Oracle Scolcoin system.
 
@@ -132,6 +134,15 @@ Integration of the PAD project with the Scolcoin API multiblockchain system. The
 
 # Oracle Definition:
 Statistical portal of the blockchain chains currently owned by the SCOL project.
+
+## Conversion:
+the distribution is made with the following formula:
+* Scolcoin Native (pool staking) + $liquidity = Scolcoin Token  <2 year staking>
+
+Note: If they have native Scol cryptocurrencies they can mine in the mining pool and you will receive the Scolcoin token as backing for the pool and additionally you must invest in the liquidity fund to leverage the token, this will result in the Scolcoin Token.
+
+or if you have Token Scolcoin:
+* You can change the real value for the native cryptocurrency scolcoin to make exchanges. the tokens obtained will be stored in the development wallet 0xfDa31C592cdA440C88097A2C9ea0C4F8D69931aD.
 
 ## Roadmap
 
