@@ -83,13 +83,13 @@ Scolcoin (SCOL) cryptocurrency backup and investment toke
 */
 
 /* < Block Genesis Token >
- - Total Supply: 80.000.000 SCOL token
- - Initial Supply: 1 SCOL Token
- + Coin support:   1 SCOL (native blockchain)
- Details Pool Bep20
- Wallet: SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW
- Explorer: https://chainz.cryptoid.info/scol/address.dws?SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW.htm
- Hash Genesis Scol Native 93516d2b91f309ec151a26eab14a3662f408a58786f12a61fdb67fad305c275e
+* - Total Supply: 80.000.000 SCOL token
+* - Initial Supply: 1 SCOL Token
+* + Coin support:   1 SCOL (native blockchain)
+* Details Pool Bep20
+* Wallet: SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW
+* Explorer: https://chainz.cryptoid.info/scol/address.dws?SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW.htm
+* Hash Genesis Scol Native 93516d2b91f309ec151a26eab14a3662f408a58786f12a61fdb67fad305c275e
 */
 
 ## Pool Miner
@@ -102,8 +102,8 @@ Every 30 days we distribute the rewards generated on the native Scolcoin blockch
 You will be able to exchange your Scolcoin token for Scolcoin Nativo when the first phase 2 years ends
 
 ## Investment (Liquidity Fund)
-A collective investment fund Scolcoin also called liquidity in the de-centralized exchanges, this block consists of gathering funds from different investors, natural or legal, to leverage the Token Scolcoin asset in the current DELFIs with different pairs, managing to capitalize the project through the holding of 2 years receiving direct rewards to their wallets with Scolcoin Nativo, by mining in proof of stake 10% per year. the resources will be applied directly in the form of liquidity in different pairs.
-Liquidity Providers earn trading and Staking commissions
+A collective investment fund Scolcoin also called liquidity in decentralized exchanges, this block consists of collecting funds from different investors, natural or legal, to leverage the Token Scolcoin asset in the current DELFIs with different pairs, managing to capitalize the project through the 2-year tenure receiving direct rewards to their wallets with Scolcoin Nativo, by mining in proof of stake 10% per year. the resources will be applied directly in the form of liquidity in different pairs.
+Liquidity providers earn trading and participation fees.
 
 # Trading Liquidity:
 Providing liquidity gives you a reward in the form of trading fees when people use your liquidity pool (your added currency pair)
@@ -128,7 +128,7 @@ Implementation of the Oracle Scolcoin system.
 Implementation of the conversion system (Swap) this will be done by an API designed for the Scolcoin community designed to exchange all currencies for token by performing a multiblockchain.
 
 # 3 Phase 
-PAD project integration with the Scolcoin API multiblockchain system.
+Integration of the PAD project with the Scolcoin API multiblockchain system. The PAD project contains an engine based on artificial intelligence to generate smart contracts on a Scolcoin virtual machine, with backup in public networks as support.
 
 # Oracle Definition:
 Statistical portal of the blockchain chains currently owned by the SCOL project.
