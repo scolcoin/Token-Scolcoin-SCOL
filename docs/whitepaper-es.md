@@ -71,12 +71,12 @@ Basado en la wallet SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW link explorador: https://
 Source Code: https://github.com/scolcoin/Token-Scolcoin-SCOL
 Link Contract: https://bscscan.com/address/0x703477125bbee6430b2c4968c1ef66701a01359f#code
 
-/// @custom:security-contact info@scolcoin.com
-/***********************************************************
-Scolcoin (SCOL) cryptocurrency backup and investment toke
-************************************************************/  
-// Copyright (c) 2018-2021 Scolcoin (SCOL) Native Blockchain
-// Copyright (c) 2021-2022 Scolcoin (SCOL) token BEP20
+* /// @custom:security-contact info@scolcoin.com
+* /***********************************************************
+* Scolcoin (SCOL) cryptocurrency backup and investment toke
+* ************************************************************/  
+* // Copyright (c) 2018-2021 Scolcoin (SCOL) Native Blockchain
+* // Copyright (c) 2021-2022 Scolcoin (SCOL) token BEP20
 
 /*--------------------------------------------------------------- @dev
  * Exclusive premier investment pool for the community SCOLCOIN 2.0 Token
@@ -127,6 +127,8 @@ Los comisionados del fondo de liquidez al registrar a sus invitados que realicen
 * Comisión 3% por montos superiores a $ 10,001 USDT
 **** Nota: todas las comisiones se pagan en Scolcoin (SCOL) Nativo
 
+## Desarrollos:
+
 # 1 Fase:
 Implementación del sistema Oraculo Scolcoin (blockchain).
 
@@ -138,6 +140,15 @@ Integración del proyecto PAD con el sistema multiblockchain API de Scolcoin. El
 
 # Definición Oraculo Blockchain:
 Portal estadístico de las cadenas blockchain actualmente propiedad del proyecto SCOL.
+
+## Conversión:
+la distribucion se realiza con la siguiente formula:
+* Scolcoin Nativos (pool staking) + $liquidez = Scolcoin Token  <2 años en staking>
+
+Nota: si tienen Criptomonedas nativas Scol podran minar en el pool de mineria y recibiras el token Scolcoin como respaldo del pool y adicional debes invertir en el fondo de liquidez para apalancar el token, esto te dara como resultado el Token Scolcoin.
+
+o si tienes Token Scolcoin:
+* podras cambiar al valor real por la criptomoneda scolcoin nativa para realizar intercambios. los token obtenidos se almacenaran en la wallet desarrollo 0xfDa31C592cdA440C88097A2C9ea0C4F8D69931aD.
 
 ## Roadmap
 
