@@ -127,7 +127,7 @@ Los comisionados del fondo de liquidez al registrar a sus invitados que realicen
 * Comisión 3% por montos superiores a $ 10,001 USDT
 **** Nota: todas las comisiones se pagan en Scolcoin (SCOL) Nativo
 
-## Desarrollos:
+## Desarrollo:
 
 # 1 Fase:
 Implementación del sistema Oraculo Scolcoin (blockchain).
