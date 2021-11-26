@@ -60,7 +60,7 @@ Scolcoin lanza un grupo de minería para su comunidad en la siguiente dirección
 * Wallet: SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW
 * Explorer: https://chainz.cryptoid.info/scol/address.dws?SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW.htm
 Establecerse en el mercado internacional con una estrategia de inversión y un fondo de liquidez gracias al Token Scolcoin
-Pool Miner + Investment (Liquidity Fund) = Token Scol
+* Pool Miner + Investment (Liquidity Fund) = Token Scol
 
 ## Token Scolcoin (2021 -2022)
 Desarrollado como un token de respaldo para la comunidad, Scolcoin nace el día.
