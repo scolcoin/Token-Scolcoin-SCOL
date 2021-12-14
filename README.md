@@ -17,3 +17,14 @@ Whitepaper Token
 ==========================
 * Spanish: https://github.com/scolcoin/Token-Scolcoin-SCOL/blob/main/docs/whitepaper-es.md
 * English: https://github.com/scolcoin/Token-Scolcoin-SCOL/blob/main/docs/white-paper.md
+
+Exchange Delfi Pancakeswap
+=========================
+* SCOL / WBNB
+https://pancakeswap.finance/info/pool/0x0af9a331cdd540ead58f03d5d7597ffb174bfa60
+* USDT / SCOL
+https://pancakeswap.finance/info/pool/0xa12e7b2b2c1c5e8826ce00a59ad5aa4b1274b3b8
+* SCOL / BUSD
+https://pancakeswap.finance/info/pool/0x283879f1940730862e8b010fab0f49ed1ad8db43
+* Cake / SCOL
+https://pancakeswap.finance/info/pool/0xe1d4efb7f6ee956ef4298149122eddaa91f13e29
