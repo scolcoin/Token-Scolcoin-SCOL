@@ -62,7 +62,7 @@ Establish itself in the international market with an investment strategy and a l
 Pool Miner + Investment (Liquidity Fund) = Token Scol
 
 ## Token Scolcoin (2021 -2022)
-Developed as a backup token for the community Scolcoin is born on the day.
+Developed as a backup token for the community Scolcoin is born on the day Nov-13-2021.
 
 based on the wallet SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW link explorador: https://chainz.cryptoid.info/scol/address.dws?SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW.htm
 
