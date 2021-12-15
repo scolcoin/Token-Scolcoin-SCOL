@@ -523,3 +523,6 @@ abstract contract Context {
 * SCOL / BUSD https://pancakeswap.finance/info/pool/0x283879f1940730862e8b010fab0f49ed1ad8db43
 
 * Cake / SCOL https://pancakeswap.finance/info/pool/0xe1d4efb7f6ee956ef4298149122eddaa91f13e29
+
+### ANN
+https://bitcointalk.org/index.php?topic=5373860.msg58569225
