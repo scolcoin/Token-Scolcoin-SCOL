@@ -22,8 +22,8 @@ Scolcoin (SCOL) cryptocurrency backup and investment toke
  - Initial Supply: 1 SCOL Token
  + Coin support:   1 SCOL (native blockchain)
  Details Pool Bep20
- Wallet: SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW 
- Explorer: https://chainz.cryptoid.info/scol/address.dws?SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW.htm
+ Wallet: SraiZ7pa5Py9Y4LYdY4W3CN2JoDmyQEcEd 
+ Explorer: https://chainz.cryptoid.info/scol/address.dws?SraiZ7pa5Py9Y4LYdY4W3CN2JoDmyQEcEd.htm
  Hash Genesis Scol Native 93516d2b91f309ec151a26eab14a3662f408a58786f12a61fdb67fad305c275e
 */
 
@@ -1919,8 +1919,8 @@ Scolcoin (SCOL) cryptocurrency backup and investment toke
  - Initial Supply: 1 SCOL Token
  + Coin support:   1 SCOL (native blockchain)
  Details Pool Bep20
- Wallet: SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW 
- Explorer: https://chainz.cryptoid.info/scol/address.dws?SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW.htm
+ Wallet: SraiZ7pa5Py9Y4LYdY4W3CN2JoDmyQEcEd 
+ Explorer: https://chainz.cryptoid.info/scol/address.dws?SraiZ7pa5Py9Y4LYdY4W3CN2JoDmyQEcEd.htm
  Hash Genesis Scol Native 93516d2b91f309ec151a26eab14a3662f408a58786f12a61fdb67fad305c275e
 */
 
