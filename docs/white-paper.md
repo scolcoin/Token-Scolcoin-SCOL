@@ -56,15 +56,15 @@ https://chainz.cryptoid.info/scol/
 
 ## Scol 2.0 Create Token.
 Scolcoin launches a mining Pool for its community at the following address: 
-* Wallet: SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW
-* Explorer: https://chainz.cryptoid.info/scol/address.dws?SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW.htm
+* Wallet: SraiZ7pa5Py9Y4LYdY4W3CN2JoDmyQEcEd
+* Explorer: https://chainz.cryptoid.info/scol/address.dws?SraiZ7pa5Py9Y4LYdY4W3CN2JoDmyQEcEd.htm
 Establish itself in the international market with an investment strategy and a liquidity fund thanks to the Scolcoin Token
 Pool Miner + Investment (Liquidity Fund) = Token Scol
 
 ## Token Scolcoin (2021 -2022)
 Developed as a backup token for the community Scolcoin is born on the day Nov-13-2021.
 
-based on the wallet SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW link explorador: https://chainz.cryptoid.info/scol/address.dws?SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW.htm
+based on the wallet SraiZ7pa5Py9Y4LYdY4W3CN2JoDmyQEcEd link explorador: https://chainz.cryptoid.info/scol/address.dws?SraiZ7pa5Py9Y4LYdY4W3CN2JoDmyQEcEd.htm
 
 // contracts/BEP20.sol
 Source Code: https://github.com/scolcoin/Token-Scolcoin-SCOL
@@ -87,8 +87,8 @@ Scolcoin (SCOL) cryptocurrency backup and investment toke
 * - Initial Supply: 1 SCOL Token
 * + Coin support:   1 SCOL (native blockchain)
 * Details Pool Bep20
-* Wallet: SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW
-* Explorer: https://chainz.cryptoid.info/scol/address.dws?SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW.htm
+* Wallet: SraiZ7pa5Py9Y4LYdY4W3CN2JoDmyQEcEd
+* Explorer: https://chainz.cryptoid.info/scol/address.dws?SraiZ7pa5Py9Y4LYdY4W3CN2JoDmyQEcEd.htm
 * Hash Genesis Scol Native 93516d2b91f309ec151a26eab14a3662f408a58786f12a61fdb67fad305c275e
 */
 
