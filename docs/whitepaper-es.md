@@ -65,7 +65,7 @@ Establecerse en el mercado internacional con una estrategia de inversión y un f
 ## Token Scolcoin (2021 -2022)
 Desarrollado como un token de respaldo para la comunidad, Scolcoin nace el día.
 
-Basado en la wallet SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW link explorador: https://chainz.cryptoid.info/scol/address.dws?SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW.htm
+Basado en la wallet SraiZ7pa5Py9Y4LYdY4W3CN2JoDmyQEcEd link explorador: https://chainz.cryptoid.info/scol/address.dws?SraiZ7pa5Py9Y4LYdY4W3CN2JoDmyQEcEd.htm
 
 // contracts/BEP20.sol
 Source Code: https://github.com/scolcoin/Token-Scolcoin-SCOL
@@ -88,8 +88,8 @@ Link Contract: https://bscscan.com/address/0x703477125bbee6430b2c4968c1ef66701a0
  - Initial Supply: 1 SCOL Token
  + Coin support:   1 SCOL (native blockchain)
  Details Pool Bep20
- Wallet: SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW
- Explorer: https://chainz.cryptoid.info/scol/address.dws?SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW.htm
+ Wallet: SraiZ7pa5Py9Y4LYdY4W3CN2JoDmyQEcEd
+ Explorer: https://chainz.cryptoid.info/scol/address.dws?SraiZ7pa5Py9Y4LYdY4W3CN2JoDmyQEcEd.htm
  Hash Genesis Scol Native 93516d2b91f309ec151a26eab14a3662f408a58786f12a61fdb67fad305c275e
 */
 
