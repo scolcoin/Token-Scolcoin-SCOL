@@ -57,8 +57,8 @@ https://chainz.cryptoid.info/scol/
 
 # Creación Scol 2.0 Token.
 Scolcoin lanza un grupo de minería para su comunidad en la siguiente dirección: 
-* Wallet: SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW
-* Explorer: https://chainz.cryptoid.info/scol/address.dws?SZoZvuRvD7aoPPVBZr89vAVb9wnCL8aGEW.htm
+* Wallet: SraiZ7pa5Py9Y4LYdY4W3CN2JoDmyQEcEd
+* Explorer: https://chainz.cryptoid.info/scol/address.dws?SraiZ7pa5Py9Y4LYdY4W3CN2JoDmyQEcEd.htm
 Establecerse en el mercado internacional con una estrategia de inversión y un fondo de liquidez gracias al Token Scolcoin
 * Pool Miner + Investment (Liquidity Fund) = Token Scol
 
