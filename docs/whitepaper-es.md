@@ -125,6 +125,7 @@ Los comisionados del fondo de liquidez al registrar a sus invitados que realicen
 * 10% de comisión por montos entre $ 1,000 y $ 3,000 USDT
 * Comisión 5% para montos entre $ 3,001 y $ 10,000 USDT
 * Comisión 3% por montos superiores a $ 10,001 USDT
+
 **** Nota: todas las comisiones se pagan en Scolcoin (SCOL) Nativo
 
 ## Desarrollo:
