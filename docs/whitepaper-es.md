@@ -48,7 +48,7 @@ https://chainz.cryptoid.info/scol/
 * RPC port  31498
 * P2P port   31497
 * Total coin supply: 80.000.000 coins
-* PoS percentage : 10% per year
+* PoS: 1 SCOL for Stake.
 * Last PoW block:  block 10000
 * Coinbase maturity : 100 blocks
 * Target spacing: 64 seconds
