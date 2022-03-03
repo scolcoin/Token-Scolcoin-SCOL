@@ -120,13 +120,12 @@ Gracias al Pool Minero Scolcoin Nativo, se dará una compensación de acuerdo a 
 # Referido por Inversion
 Los comisionados del fondo de liquidez al registrar a sus invitados que realicen el proceso tendrán una comisión directa a sus billeteras en scolcoin nativo del 3% al 15% de la inversión realizada al fondo.
 
-# Tabla Referenciados:
+# Tabla Referenciados Directos Poolbep20:
 * Comisión 10% para montos entre $ 1,000 y $ 3,000 USDT
 * Comisión 5% para montos entre $ 3,001 y $ 10,000 USDT
-* Comisión 3% por montos entre $ 10,001 y $ 20,000 USDT 
+* Comisión 3% por montos entre $ 10,001 y $ 20,000 USDT
 * Comisión 1% por montos superiores a $ 30,001 USDT
-
-**** Nota: todas las comisiones se pagan en Scolcoin (SCOL) Nativo
+## Nota: todas las comisiones se pagan en Scolcoin (SCOL) Nativo
 
 ## Desarrollo:
 
