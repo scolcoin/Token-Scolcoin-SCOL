@@ -39,15 +39,15 @@ https://github.com/scolcoin/scolcoin
 https://chainz.cryptoid.info/scol/
 
 # Specifications SCOL
-* Coin name  SColcoin
-* Coin abbreviation SCOL
+* Nombre  SColcoin
+* Abreviatura SCOL
 * algoritmo: Scrypt
 * Tipo: PoW/PoS
-* Letra Direccion: S
+* Letra Direccion: S and T
 * RPC port  31498
 * P2P port   31497
 * Total coin supply: 80.000.000 coins
-* PoS percentage : 10% per year
+* PoS: 1 SCOL for Stake.
 * Last PoW block:  block 10000
 * Coinbase maturity : 100 blocks
 * Target spacing: 64 seconds
@@ -114,12 +114,12 @@ Thanks to the Scolcoin Nativo Mining Pool, compensation will be given according 
 # Referral by Investment
 The liquidity fund commissioners when registering their guests who carry out the process will have a direct commission to their wallets in native scolcoin of 3% to 15% of the investment made to the fund.
 
-# Table:
-* Commission 15% for amounts less than $ 1,000 USDT
-* 10% commission for amounts between $ 1,000 and $ 3,000 USDT
-* Commission 5% for amounts between $ 3,001 and $ 10,000 USDT
-* Commission 3% for amounts over $ 10,001 USDT
-* Note: all commissions are paid in Scolcoin (SCOL) Nativo
+# Table Direct References Poolbep20:
+* Commission 10% for amounts between $1,000 and $3,000 USDT
+* Commission 5% for amounts between $3,001 and $10,000 USDT
+* Commission 3% for amounts between $10,001 and $20,000 USDT
+* Commission 1% for amounts greater than $30,001 USDT
+## Note: all commissions are paid in Scolcoin (SCOL) Native
 
 ## Developed
 
