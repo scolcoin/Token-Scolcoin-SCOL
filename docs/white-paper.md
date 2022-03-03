@@ -39,20 +39,23 @@ https://github.com/scolcoin/scolcoin
 https://chainz.cryptoid.info/scol/
 
 # Specifications SCOL
-* SColcoin Name
+* Name Scolcoin
 * Abbreviation SCOL
 * algorithm: Scrypt
 * Type: PoW/PoS
 * Letter Direction: S and T
-* RPC port 31498
-* P2P port 31497
+* RPC port   51621
+* P2P port   51622
+* Block reward (POW)   1 coins
+* Block reward (POS)   1 coins
 * Total coin supply: 80,000,000 coins
-* PoS: 1 SCOL for Stake.
 * Last PoW block: block 10000
-* Coinbase maturity: 100 blocks
-* Target spacing: 64 seconds
-* Target timespan: 1 block
-* Transaction confirmations: 6 blocks
+* Min. stake age   8 hours
+* Max. stake age   Unlimited
+* Coinbase maturity   20 ( + 1 default confirmation) blocks
+* Target spacing   5 minutes
+* Target timespan   10 minutes
+* Transaction confirmations   6 ( + 1 default confirmation) blocks
 
 ## Scol 2.0 Create Token.
 Scolcoin launches a mining Pool for its community at the following address: 
