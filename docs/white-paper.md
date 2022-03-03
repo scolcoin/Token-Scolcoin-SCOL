@@ -39,17 +39,17 @@ https://github.com/scolcoin/scolcoin
 https://chainz.cryptoid.info/scol/
 
 # Specifications SCOL
-* Nombre  SColcoin
-* Abreviatura SCOL
-* algoritmo: Scrypt
-* Tipo: PoW/PoS
-* Letra Direccion: S and T
-* RPC port  31498
-* P2P port   31497
-* Total coin supply: 80.000.000 coins
+* SColcoin Name
+* Abbreviation SCOL
+* algorithm: Scrypt
+* Type: PoW/PoS
+* Letter Direction: S and T
+* RPC port 31498
+* P2P port 31497
+* Total coin supply: 80,000,000 coins
 * PoS: 1 SCOL for Stake.
-* Last PoW block:  block 10000
-* Coinbase maturity : 100 blocks
+* Last PoW block: block 10000
+* Coinbase maturity: 100 blocks
 * Target spacing: 64 seconds
 * Target timespan: 1 block
 * Transaction confirmations: 6 blocks
