@@ -117,13 +117,6 @@ Thanks to the Scolcoin Nativo Mining Pool, compensation will be given according 
 # Referral by Investment
 The liquidity fund commissioners when registering their guests who carry out the process will have a direct commission to their wallets in native scolcoin of 3% to 15% of the investment made to the fund.
 
-# Table Direct References Poolbep20:
-* Commission 10% for amounts between $1,000 and $3,000 USDT
-* Commission 5% for amounts between $3,001 and $10,000 USDT
-* Commission 3% for amounts between $10,001 and $20,000 USDT
-* Commission 1% for amounts greater than $30,001 USDT
-## Note: all commissions are paid in Scolcoin (SCOL) Native
-
 ## Developed
 
 # 1 Phase
