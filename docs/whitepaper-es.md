@@ -120,9 +120,6 @@ Brindar liquidez le brinda una recompensa en forma de tarifas comerciales cuando
 # Recompensa por Staking
 Gracias al Pool Minero Scolcoin Nativo, se dará una compensación de acuerdo a la tenencia que cada persona tenga en el token (10% anual), las ganancias se distribuyen mensualmente.
 
-# Referido por Inversion
-Los comisionados del fondo de liquidez al registrar a sus invitados que realicen el proceso tendrán una comisión directa a sus billeteras en scolcoin nativo del 3% al 15% de la inversión realizada al fondo.
-
 ## Desarrollo:
 
 # 1 Fase:
