@@ -1,4 +1,4 @@
-# Token-Scolcoin-SCOL BEP20
+# Token-Native-Scolcoin-SCOL 
 Token Scol Red BSC
 
 Contract: https://bscscan.com/token/0x703477125bbee6430b2c4968c1ef66701a01359f
