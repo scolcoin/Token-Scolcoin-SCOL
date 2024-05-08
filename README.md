@@ -21,7 +21,7 @@ Whitepaper Token
 Exchange Delfi Pancakeswap
 =========================
 * USDT / SCOL
-https://pancakeswap.finance/info/pool/0xa12e7b2b2c1c5e8826ce00a59ad5aa4b1274b3b8
+
 
 ### ANN
 https://bitcointalk.org/index.php?topic=5373860.msg58569225
