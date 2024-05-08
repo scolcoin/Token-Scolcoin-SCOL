@@ -90,12 +90,10 @@ Portal estadístico de las cadenas blockchain actualmente propiedad del proyecto
 
 ## Conversión:
 la distribucion se realiza con la siguiente formula:
-* Scolcoin Nativos (pool staking) + $liquidez = Scolcoin Token  <2 años en staking>
+* Scolcoin Token Nativo en la red de Scolcoin wei Chain
+* Scolcoin Token BSC.
 
-Nota: si tienen Criptomonedas nativas Scol podran minar en el pool de mineria y recibiras el token Scolcoin como respaldo del pool y adicional debes invertir en el fondo de liquidez para apalancar el token, esto te dara como resultado el Token Scolcoin.
-
-o si tienes Token Scolcoin:
-* podras cambiar al valor real por la criptomoneda scolcoin nativa para realizar intercambios. los token obtenidos se almacenaran en la wallet desarrollo 0xfDa31C592cdA440C88097A2C9ea0C4F8D69931aD.
+Cambio 1 SCOL <> 1 SCOL
 
 ## Roadmap
 
