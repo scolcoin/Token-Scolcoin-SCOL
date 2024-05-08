@@ -1,15 +1,15 @@
 # Token-Native-Scolcoin-SCOL 
 Token Scol Red BSC
 
-Contract: https://bscscan.com/token/0x703477125bbee6430b2c4968c1ef66701a01359f
+Contract: https://bscscan.com/token/0x069DECA261aB51515C7B9Af73C26C4cA339B6820
 
  Block Genesis Token 
 ==========================
 * - Total Supply: 80.000.000 SCOL token
 * - Initial Supply: 1 SCOL Token
 * + Coin support:   1 SCOL (native blockchain)
-* Details Pool Bep20
-* Wallet: SraiZ7pa5Py9Y4LYdY4W3CN2JoDmyQEcEd 
+* Details Token Native
+* Network Scol Wei: [SraiZ7pa5Py9Y4LYdY4W3CN2JoDmyQEcEd ](https://explorer.scolcoin.com/address/0xf25bFda0E59E9f946eA85Df4B9D52d298a3a7E81/transactions)
 * Explorer: https://chainz.cryptoid.info/scol/address.dws?SraiZ7pa5Py9Y4LYdY4W3CN2JoDmyQEcEd.htm
 * Hash Genesis Scol Native 93516d2b91f309ec151a26eab14a3662f408a58786f12a61fdb67fad305c275e
 
