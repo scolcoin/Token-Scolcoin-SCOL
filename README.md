@@ -1,7 +1,7 @@
 # Token-Native-Scolcoin-SCOL 
 Token Scol Red BSC
 
-Contract: https://bscscan.com/token/0x069DECA261aB51515C7B9Af73C26C4cA339B6820
+Contract: https://bscscan.com/token/0xc618f2d90655dbe11593298f1e225fdb69b4527c
 
  Block Genesis Token 
 ==========================
