@@ -20,9 +20,9 @@ OpenZeppelin code is at the heart of our tokens and we follow their security pra
 
 This token is a standard ERC-20 implementation and was deployed on Binance Smart Chain mainnet with fixed Max Supply of 80,000,000 SCOL. 1 SCOL tokens were ultimately. To bootstrap the Scolcoin Native Blockchain ecosystem.
 
-Mainnet Deployed Scolcoin (SCOL) Token can be found here: https://bscscan.com/token/0x703477125bbee6430b2c4968c1ef66701a01359f
+Mainnet Deployed Scolcoin (SCOL) Token can be found here: https://bscscan.com/token/0xc618f2d90655dbe11593298f1e225fdb69b4527c
 
-Compilation Parameters: Solidity 0.8.10+commit.fc410830. Optimization 200
+Compilation Parameters: Solidity 0.8.20 Optimization 5000
 
 ## Scolcoin project
 Our project was born on January 3, 2018 with the genesis block of the native Scolcoin blockchain (SCOL) that currently works parallel to our token. It evolved with the 2.0.0.2 whitepaper where the mining and investment funds bet was born, which is reflected in Token Scolcoin
@@ -36,49 +36,34 @@ The Scolcoin Social Project in its creation stage was presented to the community
 * Link Code native Scolcoin blockchain
 https://github.com/scolcoin/scolcoin
 * Scolcoin Blockchain Explorer
-https://chainz.cryptoid.info/scol/
+https://explorer.scolcoin.com/
 
-# Specifications SCOL
+# Specifications SCOLCOIN NATIVE TOKEN
 * Name Scolcoin
 * Abbreviation SCOL
-* algorithm: Scrypt
-* Type: PoW/PoS
-* Letter Direction: S and T
-* RPC port   51621
-* P2P port   51622
-* Block reward (POW)   1 coins
-* Block reward (POS)   1 coins
+* network: BSC
+* Type: bridge to Network Scolcoin Wei Chain
 * Total coin supply: 80,000,000 coins
-* Last PoW block: block 10000
-* Min. stake age   8 hours
-* Max. stake age   Unlimited
-* Coinbase maturity   20 ( + 1 default confirmation) blocks
-* Target spacing   5 minutes
-* Target timespan   10 minutes
-* Transaction confirmations   6 ( + 1 default confirmation) blocks
 
 ## Scol 2.0 Create Token.
-Scolcoin launches a mining Pool for its community at the following address: 
-* Wallet: SraiZ7pa5Py9Y4LYdY4W3CN2JoDmyQEcEd
-* Explorer: https://chainz.cryptoid.info/scol/address.dws?SraiZ7pa5Py9Y4LYdY4W3CN2JoDmyQEcEd.htm
-Establish itself in the international market with an investment strategy and a liquidity fund thanks to the Scolcoin Token
-Pool Miner + Investment (Liquidity Fund) = Token Scol
+Scolcoin launches a bridge to Network Scolcoin Wei Chain for its community at the following address: 
+* Token: 0xf25bFda0E59E9f946eA85Df4B9D52d298a3a7E81
+* Explorer: https://explorer.scolcoin.com/token/0xf25bFda0E59E9f946eA85Df4B9D52d298a3a7E81/token-transfers 
+Establish itself in the international market with an investment strategy and a liquidity fund thanks to the Scolcoin Token.
 
-## Token Scolcoin (2021 -2022)
-Developed as a backup token for the community Scolcoin is born on the day Nov-13-2021.
-
-based on the wallet SraiZ7pa5Py9Y4LYdY4W3CN2JoDmyQEcEd link explorador: https://chainz.cryptoid.info/scol/address.dws?SraiZ7pa5Py9Y4LYdY4W3CN2JoDmyQEcEd.htm
+## Token Scolcoin (2022 -2024)
+Developed as a backup token for the community Scolcoin is born on the day 9-05-2024.
 
 // contracts/BEP20.sol
 Source Code: https://github.com/scolcoin/Token-Scolcoin-SCOL
-Link Contract: https://bscscan.com/address/0x703477125bbee6430b2c4968c1ef66701a01359f#code
+Link Contract:  https://bscscan.com/token/0xc618f2d90655dbe11593298f1e225fdb69b4527c#code 
 
 /// @custom:security-contact info@scolcoin.com
 /***********************************************************
 Scolcoin (SCOL) cryptocurrency backup and investment toke
 ************************************************************/  
 * // Copyright (c) 2018-2021 Scolcoin (SCOL) Native Blockchain
-* // Copyright (c) 2021-2022 Scolcoin (SCOL) token BEP20
+* // Copyright (c) 2022-2024 Scolcoin (SCOL) token BEP20
 
 /*--------------------------------------------------------------- @dev
  * Exclusive premier investment pool for the community SCOLCOIN 2.0 Token
@@ -90,23 +75,15 @@ Scolcoin (SCOL) cryptocurrency backup and investment toke
 * - Initial Supply: 1 SCOL Token
 * + Coin support:   1 SCOL (native blockchain)
 * Details Pool Bep20
-* Wallet: SraiZ7pa5Py9Y4LYdY4W3CN2JoDmyQEcEd
-* Explorer: https://chainz.cryptoid.info/scol/address.dws?SraiZ7pa5Py9Y4LYdY4W3CN2JoDmyQEcEd.htm
-* Hash Genesis Scol Native 93516d2b91f309ec151a26eab14a3662f408a58786f12a61fdb67fad305c275e
+* token: 0xc618f2d90655dbe11593298f1e225fdb69b4527c
+* Explorer:  https://bscscan.com/token/0xc618f2d90655dbe11593298f1e225fdb69b4527c#code
 */
 
-## Pool Miner
-Staking SCOL 2.0 by sending the funds to the Pool's wallet and entering its hash with minimum requirements and the maximum profitability of 10% per year. You cannot redeem your stake during the first phase, 2 years. pool.scolcoin.com converts native SCOLs into tokens as the only proof of your stake SCOLs with a 1: 1 ratio. with the requirement of entering an investment to the liquidity fund of the token.
-
-* Reward distribution (Staking)
-Every 30 days we distribute the rewards generated on the native Scolcoin blockchain among all participants based on their Scolcoin token position. These rewards are distributed in Scol Nativo to the wallets registered in pool.scolcoin.com of the users.
-
-* Withdrawal of funds
-You will be able to exchange your Scolcoin token for Scolcoin Nativo when the first phase 2 years ends
+## Bridge SCOL : SCOL Token (native)
+Change SCOLs with a 1: 1 ratio.
 
 ## Investment (Liquidity Fund)
-A collective investment fund Scolcoin also called liquidity in decentralized exchanges, this block consists of collecting funds from different investors, natural or legal, to leverage the Token Scolcoin asset in the current DELFIs with different pairs, managing to capitalize the project through the 2-year tenure receiving direct rewards to their wallets with Scolcoin Nativo, by mining in proof of stake 10% per year. the resources will be applied directly in the form of liquidity in different pairs.
-Liquidity providers earn trading and participation fees.
+A collective investment fund Scolcoin also called liquidity in decentralized exchanges, this block consists of collecting funds from different investors, natural or legal, to leverage the Token Scolcoin asset in the current DELFIs with different pairs.
 
 # Trading Liquidity:
 Providing liquidity gives you a reward in the form of trading fees when people use your liquidity pool (your added currency pair)
@@ -133,38 +110,35 @@ Statistical portal of the blockchain chains currently owned by the SCOL project.
 
 ## Conversion:
 the distribution is made with the following formula:
-* Scolcoin Native (pool staking) + $liquidity = Scolcoin Token  <2 year staking>
+* Scolcoin Native  = Scolcoin Token  
 
 Note: If they have native Scol cryptocurrencies they can mine in the mining pool and you will receive the Scolcoin token as backing for the pool and additionally you must invest in the liquidity fund to leverage the token, this will result in the Scolcoin Token.
 
-or if you have Token Scolcoin:
-* You can change the real value for the native cryptocurrency scolcoin to make exchanges. the tokens obtained will be stored in the development wallet 0xfDa31C592cdA440C88097A2C9ea0C4F8D69931aD.
-
 ## Roadmap
 
-# Q1 2021
-*- November 2021 - Create Token Scolcoin (whitepaper, ANN, Exchange)
+# Q1 2024
+*- May 2024 - Create Token Scolcoin (whitepaper, ANN, Exchange)
 
-# Q2 2021
-* December 2021 - Launch of the Mining Pool and Liquidity Fund.
+# Q2 2024
+* December 2024 - Launch of the Mining Pool and Liquidity Fund.
 * Start pool mining. 
 * start liquidity pool.
 * (1 phase: duration 2 year)
 
-# Q1 2022
+# Q1 2025
 * January to December - Sale of assets through stock brokers and / or brokers
 * Payment of mining pool rewards (period monthly)
 
-# Q1 2023
+# Q1 2025
 * January - Oracle Platform Development (2 phase).
 
-# Q2 2023
+# Q2 2025
 * June - PAD project Platform Development (3 phase).
 
-# Q1 2024
+# Q1 2025
 * January - Withdrawal time mining pool (1 phase).
 
-# Q1 2025
+# Q1 2026
 * January - PAD Project launch (3 phase).
 
 ## Libraries & Interfaces
@@ -506,7 +480,12 @@ abstract contract Context {
 // File: @openzeppelin/contracts/security/Pausable.sol
 ```
 ## Exchange
-* Par USDT / SCOL
-https://pancakeswap.finance/info/pool/0xa12e7b2b2c1c5e8826ce00a59ad5aa4b1274b3b8
-* Par SCOL / WBNB
-https://pancakeswap.finance/info/pool/0x0af9a331cdd540ead58f03d5d7597ffb174bfa60
+Dex BSC Intercambio 
+* pancakeswap:
+https://pancakeswap.finance/info/tokens/0xc618f2d90655dbe11593298f1e225fdb69b4527c
+
+https://pancakeswap.finance/info/v2/tokens/0xc618f2d90655dbe11593298f1e225fdb69b4527c 
+https://pancakeswap.finance/info/v3/tokens/0xc618f2d90655dbe11593298f1e225fdb69b4527c
+
+trade
+https://pancakeswap.finance/swap?outputCurrency=0xc618f2d90655dbe11593298f1e225fdb69b4527c&chainId=56 
