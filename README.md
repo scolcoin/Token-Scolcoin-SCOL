@@ -20,7 +20,15 @@ Whitepaper Token
 
 Exchange Delfi Pancakeswap
 =========================
-* USDT / SCOL
+
+* pancakeswap:
+https://pancakeswap.finance/info/tokens/0xc618f2d90655dbe11593298f1e225fdb69b4527c
+
+https://pancakeswap.finance/info/v2/tokens/0xc618f2d90655dbe11593298f1e225fdb69b4527c 
+https://pancakeswap.finance/info/v3/tokens/0xc618f2d90655dbe11593298f1e225fdb69b4527c
+
+trade
+https://pancakeswap.finance/swap?outputCurrency=0xc618f2d90655dbe11593298f1e225fdb69b4527c&chainId=56 
 
 
 ### ANN
