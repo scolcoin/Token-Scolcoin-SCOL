@@ -34,3 +34,40 @@ Exchange Delfi Pancakeswap
 
 ### ANN
 https://bitcointalk.org/index.php?topic=5373860.msg58569225
+
+### Social
+
+#### Website:
+* https://scolcoin.com/es/
+
+#### Project start 2018: Scolcoin
+* https://bitcointalk.org/index.php?topic=2739783.msg28015328
+
+#### Our history
+* Link: https://bitcourier.co.uk/news/scolcoin-interview
+
+#### Whitepaper Token Scol (Scolcoin) 2.0 Our Smart Contracts
+* https://github.com/scolcoin/Token-Scolcoin-SCOL/blob/main/docs/white-paper.md
+
+#### Source Code
+* https://github.com/scolcoin/Token-Scolcoin-SCOL
+
+#### Communities:
+
+#####  reddit:
+- https://www.reddit.com/r/Scolcoin
+
+#####  Telegram:
+- http://t.me/scolcoin
+
+#####  Facebook:
+- https://www.facebook.com/Socialprojectscol/
+
+#####  Twitter:
+- https://twitter.com/scolcoin
+
+#####  instagram:
+- https://www.instagram.com/scolcoin/
+
+#####  Medium
+- https://medium.com/@scolcoin_337
